@@ -1,0 +1,18 @@
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\bin\Debug\DataBusinessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\bin\Debug\DataBusinessLayer.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csprojAssemblyReference.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CoreCompileInputs.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CopyComplete
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\bin\Debug\DataBusinessLayer.dll
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\bin\Debug\DataBusinessLayer.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csprojAssemblyReference.cache
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.csproj.CopyComplete
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.dll
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\DataBusinessLayer\obj\Debug\DataBusinessLayer.pdb

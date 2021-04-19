@@ -1,0 +1,29 @@
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\QuanLiTho_NhomTho.exe
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\QuanLiTho_NhomTho.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataBusinessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataAccessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataBusinessLayer.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataAccessLayer.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csprojAssemblyReference.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.Properties.Resources.resources
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.GenerateResource.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.CoreCompileInputs.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.CopyComplete
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.exe
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.FrmTho.resources
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\QuanLiTho_NhomTho.exe
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\QuanLiTho_NhomTho.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataBusinessLayer.dll
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataAccessLayer.dll
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataBusinessLayer.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\bin\Debug\DataAccessLayer.pdb
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csprojAssemblyReference.cache
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.FrmTho.resources
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.FrmXe.resources
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.Properties.Resources.resources
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.GenerateResource.cache
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.CoreCompileInputs.cache
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.csproj.CopyComplete
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.exe
+C:\Users\caoho\OneDrive\Desktop\Test_3Layer\QuanLiTho_NhomTho\obj\Debug\QuanLiTho_NhomTho.pdb

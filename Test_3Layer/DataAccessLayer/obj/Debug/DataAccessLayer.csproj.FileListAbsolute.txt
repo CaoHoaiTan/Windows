@@ -1,0 +1,6 @@
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\HK4 ( HK2 20-21)\Lập trình trên Window\Tuan7\Test_3Layer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
